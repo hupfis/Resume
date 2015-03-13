@@ -1,0 +1,279 @@
+{
+  "basics": {
+    "name": "Dominik Hurnaus",
+    "label": "Software Engineer/Software Architect/Team Lead",
+    "picture": "https://avatars0.githubusercontent.com/u/106848",
+	"phone": "+43 650 7236723",
+    "email": "dominik.hurnaus@gmail.com",
+    "summary": "I am a seasoned software engineer (since 2002) with a deep knowledge of the full web stack, mobile development and software architecture. I worked in several projects as developer, software architect and leading project manager. I have an enterpreneuereal mindset with a passion for pragmatic and high-quality software solutions.",
+    "location": {
+      "city": "Linz",
+      "region": "Upper Austria",
+      "countryCode": "Austria"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "hupfis",
+        "url": "http://github.com/hupfis"
+      },
+      {
+        "network": "XING",
+        "username": "Dominik Hurnaus",
+        "url": "https://www.xing.com/profile/Dominik_Hurnaus"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Dominik Hurnaus",
+        "url": "https://www.linkedin.com/profile/view?id=8537836"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Queue-Go",
+      "position": "Co-Founder and CTO",
+      "website": "http://www.queue-go.com",
+      "startDate": "2013-07-01",      
+      "summary": "Queuing detection and optimization systems for ski areas, airports, and stores.",
+      "highlights": [
+		"Featured in austrias investors show '2 Minuten - 2 Millionen'",
+        "EIC ICT Labs Idea Competition Finals",
+		"Special price at trend@venture 2014",
+		"3rd Place Edison Award 2014"
+      ]
+    },
+    {
+      "company": "Catalysts GmbH",
+      "position": "Software Engineer, Software Architect, Team Lead",
+      "website": "http://www.catalysts.cc",
+      "startDate": "2009-09-15",
+      "summary": "",
+      "highlights": [
+	    "DSL for describing financial products.",
+		"Software architecture in a Java-based enterprise software project in the automotive industry.",
+		"Testautomation based on Borland Silk4J for a customer in the transportation industry.",
+		"Project lead, architect in many medium-sized project teams in different industries (medical, telecommunications, logistics, etc.)",
+		"In-house course instructor, team coach, responsible employee, etc."
+      ]
+    },
+    {
+      "company": "Self-Employed",
+      "position": "CEO",
+      "startDate": "2006-03-01",
+      "summary": "Design, implementation and operation of 'eRecruiter', a web-based recruiting and applicant management software.",
+      "highlights": [
+	    "BlackJack Trainer App for Android, BlackBerry, KindleFire - http://www.hornetapps.com/blackjacktrainer.html",
+		"Nova Rechner App for Android - https://play.google.com/store/apps/details?id=at.hornetapps.novacalculator",
+      	"Order management, production planning and logistics software system for a international bakery(2006-2009).",
+      	"Windows Phone 8.1 app for bluetooth-enabled activity tracking device - http://www.windowsphone.com/de-at/store/app/tractive-motion/a748b092-4dc9-43e1-8a3a-5847ebebd9c2",
+		"Tech2b technical/scientific advisor for Austrian Startups"
+      ]
+    },
+    {
+      "company": "Christian Doppler Laboratory for Automated Software Engineering",
+      "position": "Research Assistant",
+      "website": "http://ase.jku.at/",
+      "startDate": "2006-03-01",
+      "endDate": "2009-08-31",      
+      "summary": "Dissertation: Semantic Assistance for Industrial Automation Based on Contracts and Verification",
+	  "highlights": [
+		"Patent DE 10 2009 051 808.8 https://register.dpma.de/DPMAregister/pat/register?AKZ=1020090518088&CURSOR=4"
+	  ]
+    },
+    {
+      "company": "BMW, Plant Dingolfing, Germany",
+      "position": "Software Engineer",
+      "website": "http://www.bmw.de",
+      "startDate": "2005-11-01",
+      "endDate": "2006-03-01",      
+      "summary": "Voluntary Internship: Analysis of automotive on-board-network traffic."
+    },
+    {
+      "company": "Microsoft Corp, Redmond, USA",
+      "position": "Software Engineer",
+      "website": "http://www.microsoft.com",
+      "startDate": "2005-07-01",
+      "endDate": "2005-11-01",      
+      "summary": "Internship: Programming of a tool to measure network metrics, web performance tests."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coursera, Online",
+      "startDate": "2012-03-01",
+      "endDate": "2012-04-15",
+	  "courses": [
+	    "Software as a Service: SaaS Architectures, Ruby, Rails, BDD, TDD"
+	  ]
+    },
+    {
+      "institution": "Stanford School of Engineering, Online",
+      "startDate": "2011-10-15",
+      "endDate": "2011-12-15",
+	  "courses": [
+		"Introduction to Artificial Intelligence - Advanced Track",
+		"Machine Learning - Advanced Track"
+	  ]
+    },
+    {
+      "institution": "Johannes Kepler Universtität, Linz",
+      "area": "Technical Sciences",
+      "studyType": "PhD / Dr",
+      "startDate": "2006-10-01",
+      "endDate": "2009-08-31",
+      "gpa": "Passed with distinction"
+    },
+    {
+      "institution": "Fachhochschule Hagenberg",
+      "area": "Software Engineering",
+      "studyType": "Master / DI (FH)",
+      "startDate": "2002-10-01",
+      "endDate": "2006-06-30",
+      "gpa": "Passed with distinction"
+    },
+    {
+      "institution": "Bundeshandelsakademie Rohrbach, Austria",
+      "area": "Information Technology and Organisation",
+      "studyType": "Secondary school diploma",
+      "startDate": "1996-09-01",
+      "endDate": "2001-06-30",
+      "gpa": "Passed with distinction"
+    }
+  ],
+  "volunteer": [
+  { 
+    "organization": "Technologieplauscherl",
+    "position": "Co-Founder, Organizer, Speaker",
+    "website": "http://www.technologieplauscherl.at",
+    "startDate": "2012-03-11",	
+    "summary": "Organizer, co-founder, and speaker of the regular technology-related meetup 'Technologieplauscherl' in Linz, Austria.",
+	"highlights": [
+    	"Founded the regular meetup in 2012, having monthly meetings with approximately 50 participants per event.",
+    	"Participation in a few widely-used OSS libraries, ie. Trello.NET or mite.NET."
+    ]    
+  },
+  {
+    "organization": "Open Streetmap",  	
+    "position": "Community work",
+    "website": "http://www.openstreetmap.org/user/Dominik%20Hurnaus",
+	"startDate": "2008-09-01",
+	"endDate": "2012-12-31",
+    "summary": "Active contributer to the open streetmap project in Upper Austria."
+  },
+  {
+    "organization": "Coding Contests",  	
+    "position": "Participant, Team Coach",
+	"startDate": "2007-03-01",
+	"highlights": [
+    	"Team member of the Austrian team coreCoder at the international Challenge 24 coding contest in Budapest, Hungary.",
+    	"Participant in many of the Catalysts coding contests.",
+		"Team coach of the Austrian team at the IBM ICPC coding contest finals in Tokyo, Japan (March 2007)."
+    ]
+  }],
+  "skills": [
+    {
+      "name": "12+ years experience using Java and building enterprise software systems",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Spring Framework", 
+		"Hibernate, JPA",
+		"Apache Tapestry",
+		"Thymeleaf",
+		"JSP/Servlets",
+		"Gradle",
+		"Maven",
+		"AspectJ"
+      ]
+    },
+	{
+      "name": "10+ years experience in web development",
+      "level": "Master",
+      "keywords": [
+        "HTML / HTML5",
+        "CSS / CSS3",
+        "JavaScript",
+        "Common JavaScript frameworks, ie. jQuery, Bootstrap, AngularJS, ..."
+      ]
+    },
+    {
+      "name": "4+ years experience developing for mobile platforms",
+      "level": "Master",
+      "keywords": [
+        "Android, Kindle",
+        "Windows Phone 8.1"
+      ]
+    },
+    {
+      "name": "4+ years experience using .NET 1.0 beta - .NET 4.5",
+      "level": "Master",
+      "keywords": [
+        "C#, VB.NET",
+        "ASP.NET",
+        "WPF, XAML",
+        "Windows Forms",
+        "Windows Phone 8.1"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "SQL Server",
+        "Oracle",
+        "MySQL",
+        "SQL (PL-SQL, T-SQL)",
+		"SolR",
+		"MongoDB"
+      ]
+    },
+    {
+      "name": "Test automation, continuous integration & deployment",
+      "level": "Master",
+      "keywords": [
+		"TeamCity",
+		"Hudson/Jenkins", 
+        "Silk4J",
+        "JUnit",
+        "Selenium",
+        "Mockito"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Master",
+      "keywords": [
+        "Amazon Web Services (AWS)",
+        "Google AppEngine"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Intermediate",
+      "keywords": [
+        "C/C++",
+        "Windows Server Administration",
+        "Git, Subversion",
+		"JIRA",
+		"Youtrack"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+	{
+      "language": "English",
+      "fluency": "Excellent fluency"
+    }
+  ],
+  "references": [
+    {
+      "name": "David Hansen, Group Engineering Manager, Microsoft",
+      "reference": "Dominik was both technically strong and energetic. He came up with great solutions to problems we had to solve on the team."
+    }
+  ]
+}

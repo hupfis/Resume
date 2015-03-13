@@ -1,0 +1,37 @@
+version: 1.0.0.{build}
+
+# Install scripts. (runs after repo cloning)
+install:
+  - npm install
+
+# Post-install scripts.
+test_script:
+  - node .\node_modules\resume-cli\index.js export index -f html --theme elegant
+  - node .\node_modules\resume-cli\index.js export index-kwan -f html --theme kwan
+  - node .\node_modules\resume-cli\index.js export resume -f pdf --theme elegant
+  - node .\node_modules\resume-cli\index.js export resume-kwan -f pdf --theme kwan 
+
+# Don't actually build.
+build: off
+
+artifacts:
+  - path: index.html
+    name: Résumé of Dominik Hurnaus (elegant theme)
+  - path: index-kwan.html
+    name: Résumé of Dominik Hurnaus (kwan theme)
+  - path: resume.pdf
+    name: Résumé of Dominik Hurnaus (elegant theme)
+  - path: resume-kwan.pdf
+    name: Résumé of Dominik Hurnaus (kwan theme)
+    
+# Deploy all artifacts to GitHub Releases
+deploy:
+  release: Dominik_Hurnaus_Resume-v$(appveyor_build_version)
+  provider: GitHub
+  auth_token:
+    secure: BicOEBhItTEfhuBNXSEpWyHDX7G+opbyCTfz48bc3hn2zts4R8dGhfGudD+B+rbt
+  # artifact: /.*\.html/ # left out, because all artifacts should be deployed
+  draft: false
+  prerelease: false
+  on:
+    branch: master                 # release from master branch only

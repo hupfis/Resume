@@ -1,0 +1,16 @@
+{
+"name": "Resume",
+"version": "0.0.1",
+"description": "Dominik Hurnaus resume",
+"main": "app.js",
+"author": {
+"name": "hupfis",
+"email": ""
+},
+"scripts" : {
+"test": "node ./node_modules/resume-cli/index.js export index -f html"
+},
+"dependencies": {
+"resume-cli": "0.3.13"
+}
+}
