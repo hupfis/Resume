@@ -35,7 +35,7 @@
       "position": "Co-Founder and CTO",
       "website": "http://www.queue-go.com",
       "startDate": "2013-07-01",      
-      "summary": "Queuing detection and optimization systems for ski areas, airports, and stores.",
+      "summary": "Queuing detection and optimization systems for ski areas, airports and stores.",
       "highlights": [
 		"Featured in austrias investors show '2 Minuten - 2 Millionen'",
         "EIC ICT Labs Idea Competition Finals",
@@ -61,11 +61,11 @@
       "company": "Self-Employed",
       "position": "CEO",
       "startDate": "2006-03-01",
-      "summary": "Design, implementation and operation of 'eRecruiter', a web-based recruiting and applicant management software.",
+      "summary": "",
       "highlights": [
 	    "BlackJack Trainer App for Android, BlackBerry, KindleFire - http://www.hornetapps.com/blackjacktrainer.html",
 		"Nova Rechner App for Android - https://play.google.com/store/apps/details?id=at.hornetapps.novacalculator",
-      	"Order management, production planning and logistics software system for a international bakery(2006-2009).",
+      	"Order management, production planning and logistics software system for a international bakery (2006-2009).",
       	"Windows Phone 8.1 app for bluetooth-enabled activity tracking device - http://www.windowsphone.com/de-at/store/app/tractive-motion/a748b092-4dc9-43e1-8a3a-5847ebebd9c2",
 		"Tech2b technical/scientific advisor for Austrian Startups"
       ]
@@ -150,7 +150,7 @@
     "summary": "Organizer, co-founder, and speaker of the regular technology-related meetup 'Technologieplauscherl' in Linz, Austria.",
 	"highlights": [
     	"Founded the regular meetup in 2012, having monthly meetings with approximately 50 participants per event.",
-    	"Participation in a few widely-used OSS libraries, ie. Trello.NET or mite.NET."
+    	""
     ]    
   },
   {
